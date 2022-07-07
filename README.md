@@ -18,7 +18,7 @@ A technology enthusiast and a smart worker.
 <h3>
   
 - 👋 I’m Vinishikha
-- 📖 Currently Learning 
+- 📖 Currently Learning Full Stack
 
  </h3>
   
