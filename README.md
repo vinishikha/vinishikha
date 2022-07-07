@@ -53,7 +53,7 @@ A technology enthusiast and a smart worker.
   
 <a href="https://www.instagram.com/vini_s_h_i_kha20" target="_blank">
 
-![Instagram](https://img.shields.io/badge/i_am_evs-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Instagram](https://img.shields.io/badge/Vini-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
   
 </a>   <a href="mailto:vinishikha.s@gmail.com" target="_blank">
